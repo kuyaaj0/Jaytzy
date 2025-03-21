@@ -1,0 +1,180 @@
+body {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(128, 128, 128, 0.5)), linear-gradient(to left, rgba(255, 255, 255, 0.8), rgba(128, 128, 128, 0.5));
+    backdrop-filter: background-blur(10px);
+    margin: 0px;
+    padding: 10px;
+}
+
+#home {
+    top: 0;
+    position: absolute;
+    margin-inline: 975px;
+    outline-color: black;
+    outline: none;
+    text-decoration: none;
+    transition: box-shadow 0.3s ease-in-out;
+}
+#home:hover {
+    box-shadow: 0 0 20px 15px rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+}
+#page {
+    top: 0;
+    position: absolute;
+    margin-inline: 1230px;
+    outline-color: black;
+    outline: none;
+    text-decoration: none;
+    transition: box-shadow 0.3s ease-in-out;
+}
+#page:hover {
+    box-shadow: 0 0 20px 15px rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+}
+#skill {
+    top: 0;
+    position: absolute;
+    margin-inline: 1158px;
+    outline-color: black;
+    outline: none;
+    text-decoration: none;
+    transition: box-shadow 0.3s ease-in-out;
+}
+#skill:hover {
+    box-shadow: 0 0 20px 15px rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+}
+#PROJECTS {
+    top: 0;
+    position: absolute;
+    margin-inline: 1059px;
+    outline-color: black;
+    outline: none;
+    text-decoration: none;
+    transition: box-shadow 0.3s ease-in-out;
+}
+#PROJECTS:hover {
+    box-shadow: 0 0 20px 15px rgba(0, 0, 0, 0.8);
+    cursor: pointer;
+}
+#section_contain {
+    margin-top: 100px;
+    text-align: center;
+    align-items: center;
+}
+#Photo_of_me {
+    text-align: center;
+    align-items: center;
+    width: 106px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#skills {
+    margin-left: 78vh;
+    margin-top: 100px;
+    border-radius: 5%;
+    border-bottom: 5%;
+    text-align: center;
+    justify-content: center;
+    font-size: 15px;
+    width: 300px;
+    height: 300px;
+    justify-items: center;
+}
+#skilled {
+    font-size: 30px;
+}
+#phantom {
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 10%;
+    margin-block: initial;
+}
+#1 {
+    text-emphasis-position: -10px;
+}
+#html {
+    width: 30px;
+    border-radius: 50%;
+    position: relative;
+    margin-bottom: -7px;
+    margin-top: -7px;
+    margin-left: 8px;
+    height: 25px;
+}
+#2 {
+    text-emphasis-position: -10px;
+}
+#css {
+    width: 30px;
+    border-radius: 50%;
+    position: relative;
+    margin-bottom: -7px;
+    margin-top: -7px;
+    margin-left: 8px;
+    height: 25px;
+}
+#3 {
+    text-emphasis-position: -10px;
+}
+#js {
+    width: 30px;
+    border-radius: 50%;
+    position: relative;
+    margin-bottom: -7px;
+    margin-top: -7px;
+    margin-left: 8px;
+    height: 25px;
+}
+#4 {
+    text-emphasis-position: -10px;
+}
+#lua {
+    width: 30px;
+    border-radius: 50%;
+    position: relative;
+    margin-bottom: -7px;
+    margin-top: -7px;
+    margin-left: 8px;
+    height: 25px;
+}
+#Projects {
+    text-align: center;
+    width: 900px;
+    margin-left: 235px;
+    margin-top: 150px;
+    height: 200px;
+}
+#Projects #nf:hover #mods:hover {
+    background-color: gray;
+}
+#Projects h1{
+    text-align: center;
+}
+#nf b{
+    text-align: center;
+}
+#mods b{
+    text-align: center;
+}
+
+#git_page {
+    text-align: center;
+    margin-top: 150px;
+}
+#git_page a:hover {
+    background-color: gray;
+}
+#logos {
+    font-weight: 600;
+    padding-top: 10px;
+    font-size: xx-large;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
